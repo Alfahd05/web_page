@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/style.css">
+    <title>PLANTS</title>
+
+
+
+	
+	
+</head>
+<body>
+    <header>
+        <h1>PLANT WELTH</h1>
+        <nav>
+        <ul>
+            <li><a href="index.html">HOME</a></li>
+            <li><a href="PLANT_WELTH.HTML" >PLANT WELTH</a></li>
+            <li><a href="LIVESTOCK.HTML">LIVESTOCK</a></li>
+            <li><a href="HOW_TO_VISIT_IT.HTML">HOW TO VISIT IT</a></li>
+        </ul>
+
+    </nav>
+    </header>
+    
+    <section class="INTRODUCTION">
+        <h1>INTRODUCTION</h1>
+        <p>Socotra is a botanical treasure chest unlike anywhere else on Earth. <br>
+        Its long isolation has led to the evolution of a stunning array of <br>
+        endemic plants—species found nowhere else.
+</p>
+    </section>
+    
+    <section class="plant_welth">
+        <p>here is a group of the most common endemic plants in <strong>Socotra</strong> :</p>
+        <ol>
+            <li><h2>Dragon's Blood Tree:</h2>
+
+            <h3>OVERVIEW</h3>
+            <dl>
+                <dt>Appearance:</dt>
+                <dd>Umbrella-shaped crown with dense foliage; looks like a giant mushroom from afar.</dd>
+            </dl>
+            <dt>Unique Trait:</dt>
+            <DD> Produces a crimson resin known as “dragon's blood”,
+                <br> used historically as medicine, dye, and incense.
+            </DD>
+            <dd>Ecological Role:</dd>
+            <dt>Its shape helps shade the roots and reduce evaporation 
+                <br>an adaptation to Socotra's arid climate.
+            </dt>
+            <li><h2>Bottle Tree <em>Adenium obesum socotranum</em> :</h2></li>
+
+
+            <h3>OVERVIEW</h3>
+            <dl>
+                <dt>Appearance:</dt>
+                <dd>Swollen, bottle-like trunk with vibrant red-and-white flowers;
+                    <br>grows up to 3 meters tall.
+                </dd>
+                <dt>Adaptation:</dt>
+                <dd> Stores water in its thick trunk to survive long dry seasons.
+                </dd>
+            </dl>
+            <li><h2>Frankincense Tree <em>Boswellia sacra </em></h2> :</li>
+
+
+            <h3>OVERVIEW</h3>
+            <dl>
+                <dt>Appearance:</dt>
+                <dd>Gnarled trunk with papery bark; grows 2-8 meters tall.
+                </dd>
+                <dt>Product:</dt>
+                <dd>Yields aromatic resin (frankincense) 
+                    <br>used in perfumes, incense, and traditional medicine.</dd>
+                <dt>Harvesting:</dt>
+                <dd>Resin is collected by making small cuts in the bark;
+                    <br>it hardens into fragrant granules</dd>
+            </dl>
+        </ol>
+
+    </section>
+
+
+</body>
+</html
